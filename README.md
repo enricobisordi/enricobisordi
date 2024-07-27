@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-🎓 Aluno de Ciências Econômicas - FEA USP <br>💼 Atualmente trabalhando na área de Economia da Rio Bravo Investimentos<br>📘 Procurando aprender mais em Python e R, especialmente para análise de séries temporais e forecasting<br>
+# 🔥 Sobre mim
+🎓 Aluno de Ciências Econômicas - FEA USP <br>💼 Atualmente trabalhando na área de Economia da Rio Bravo Investimentos<br>📘 Procurando aprender mais em Python e R, especialmente para análise de séries temporais e Forecasting<br>📈
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enrico.bisordi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-exel-bisordi-298a2929a/)
