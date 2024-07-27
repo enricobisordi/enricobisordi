@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enricobisordi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🎮 Snake Game:
-![Snake animation](https://github.com/enricobisordi/enricobisordi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
