@@ -1,6 +1,6 @@
 # 🔥 About me 
-🎓 Economics undergrad at the School of Economics, Business and Accounting of the University of São Paulo (FEA-USP) <br> <br>📘 Seeking to learn more on time series analysis and forecasting using Python and R 📈<br>
-📈 Currently working on the Economic Research team at JPMorgan Chase & Co
+🎓 Economics undergrad at the School of Economics, Business and Accounting of the University of São Paulo (FEA-USP) <br> 📈 Currently working on the Economic Research team at JPMorgan Chase & Co <br>📘 Seeking to learn more on time series analysis and forecasting using Python and R 📈<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enrico.bisordi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-exel-bisordi-298a2929a/)
