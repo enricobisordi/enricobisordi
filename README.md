@@ -1,4 +1,4 @@
-#About me 
+# About me 
 🎓 Economics undergrad at the School of Economics, Business and Accounting of the University of São Paulo (FEA-USP) <br> 📈 Currently working on the Economic Research team at JPMorgan Chase & Company <br>📘 Seeking to learn more on time series analysis and forecasting using Python and R 📈<br>
 
 
